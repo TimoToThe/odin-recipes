@@ -1,11 +1,14 @@
 body {
     background-color: #e0afa0;
     font-family: 'Arial', 'Helvetica', sans-serif;
+    color: #463f3a;
 }
 
-.main {
+.title,
+.content {
     background-color: #f4f3ee;
-    padding: 16px;
+    padding: 16px 32px;
+    margin: 16px;
 }
 
 a {
